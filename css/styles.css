@@ -337,14 +337,19 @@ a:visited {
   background-image: url("https://i.imgur.com/nUTI1Ha.jpg");
 }
 
-#joe-burgess-cover {
+#kristyn-matthews-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess-cover.png");
 }
 
-#mathieu-balez-cover {
+#kristyn-matthews-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/mathieu-balez-cover.jpeg");
 }
-
+#nico-krachenfels-card {
+ background-image: url("https://i.imgur.com/Zrq2RtL.jpg")
+}
+#nico-krachenfels-cover {
+ background-image: url("lhttps://i.imgur.com/0jkSPYH.jpg")
+}
 #mathieu-balez-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/mathieu-balez.jpeg");
 }
