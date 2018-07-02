@@ -30,18 +30,18 @@ You'll have the whole workshop to complete this lab. Use that time to get to kno
 
 Please collect the following content from your assigned partner for their profile. This content doesn't have to be finalized, but you need something. They'll be using this content as the project evolves for their resume and other profiles online.
 
-* Name
-* Github Username
-* Blog Url (if they don't already have a blog, we'll set one up at their-github-username.github.io)
-* Tagline
-* Profile Picture (something semi-professional, a headshot, of a good reusable size that can be easily cropped)
+* Name Monica Nimmagadda
+* Github Username monicanimm
+* Blog Url (if they don't already have a blog, we'll set one up at their-github-username.github.io) 
+* Tagline 
+* Profile Picture (something semi-professional, a headshot, of a good reusable size that can be easily cropped) 
 * Background Picture
-* Favorite Websites
-* Previous Work Experience
-* Short Bio
-* Twitter URL
-* LinkedIn URL
-* Education
+* Favorite Websites 
+* Previous Work Experience Business Technolology Analyst Intern @ Cisco, Rresearch and Development Intern @ LitWorld 
+* Short Bio: From Los Angeles, went to Amherst College in Western Massachusetts, moving to Baltimore!
+* Twitter URL 
+* LinkedIn URL https://www.linkedin.com/in/monica-nimmagadda-929518123/
+* Education Amherst College
 
 ### Background and Profile Images
 
@@ -50,7 +50,7 @@ Please collect the following content from your assigned partner for their profil
 * Select your cover and profile pictures
 * Upload your cover and profile pictures to imgur (they should be jpg or png files):
   * Head to <a href="https://imgur.com/upload/" target="_blank">imgur.com/upload</a> and upload your profile and cover images
-  * After you upload each image, copy the **direct link** URL and paste that somewhere safe. **You will need to use these links in the `css/styles.css` file to be able to display the images in your profile**.
+  * After you upload each image, copy the **direct link** URL and paste that somewhere safe. Profile: https://imgur.com/a/sX5hLgE Cover: https://imgur.com/a/OJBFX2a **You will need to use these links in the `css/styles.css` file to be able to display the images in your profile**.
 * Share links to your cover and profile images with your partner
 
 ## Structure
@@ -90,9 +90,9 @@ The structure of this project looks something like this:
 * The Team Lead should open up this lesson in their Learn IDE and open the `index.html` file. You'll see a number of example `<div class="student-card">` elements. Replace each one of these blocks with a comment marking where each person should add their partner's profile:
 
 ```html
-<!-- TODO: Add Ryan Atwood -->
+<!-- TODO: Add Cooper Temple -->
 <div class="student-card" id="firstname-lastname-card">
-  <a href="students/firstname-lastname.html">
+  <a href="students/coopertemple.html">
     <div class="view-profile-div">
       <h3 class="view-profile-text">View Profile</h3>
     </div>
